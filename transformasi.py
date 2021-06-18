@@ -1,3 +1,14 @@
+'''
+Tugas Aljabar Vektor Matriks: Transformasi Matriks
+18 Juni 2021
+
+Anggota Kelompok 8:
+- Marisa Dian Pertiwi   (20/457265/SV/17712)
+- Rafid Aslam           (20/464402/SV/18721)
+- Rama Arista Wibisono  (20/464403/SV/18722)
+- Zahwa Neysa           (20/464408/SV/18727)
+'''
+
 import sys
 import numpy as np
 
